@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio</title>
+    <link>https://github.com/LeBinks/blog.git/pt-fr/</link>
+    <description>Recent content on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/LeBinks/blog.git/pt-fr/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>À propos</title>
+      <link>https://github.com/LeBinks/blog.git/pt-fr/about.html</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/pt-fr/about.html</guid>
+      <description>Je suis Esteban GARCIA , développeur enthousiaste.</description>
+    </item>
+    
+    <item>
+      <title>GSB</title>
+      <link>https://github.com/LeBinks/blog.git/pt-fr/posts/gsb.html</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/pt-fr/posts/gsb.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projet Tennis</title>
+      <link>https://github.com/LeBinks/blog.git/pt-fr/posts/projet-tennis.html</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/pt-fr/posts/projet-tennis.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gestion Vaccination</title>
+      <link>https://github.com/LeBinks/blog.git/pt-fr/posts/gestion-vaccination.html</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/pt-fr/posts/gestion-vaccination.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://github.com/LeBinks/blog.git/pt-fr/contact.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/pt-fr/contact.html</guid>
+      <description>📫 Comment me contacter : esteban.garcia33100@gmail.com.</description>
+    </item>
+    
+    <item>
+      <title>Projets</title>
+      <link>https://github.com/LeBinks/blog.git/pt-fr/projects.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/pt-fr/projects.html</guid>
+      <description>Rien à voir ici&amp;hellip; Passez votre chemin !</description>
+    </item>
+    
+  </channel>
+</rss>

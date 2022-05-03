@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AP on Portfolio</title>
+    <link>https://github.com/LeBinks/blog.git/tags/ap.html</link>
+    <description>Recent content in AP on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/LeBinks/blog.git/tags/ap/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GSB</title>
+      <link>https://github.com/LeBinks/blog.git/post/gsb.pt.html</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/post/gsb.pt.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tennis project</title>
+      <link>https://github.com/LeBinks/blog.git/post/projet-tennis.html</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/post/projet-tennis.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

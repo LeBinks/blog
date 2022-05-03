@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Portfolio</title>
+    <link>https://github.com/LeBinks/blog.git/categories.html</link>
+    <description>Recent content in Categories on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://github.com/LeBinks/blog.git/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AP</title>
+      <link>https://github.com/LeBinks/blog.git/categories/ap.html</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/categories/ap.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dev</title>
+      <link>https://github.com/LeBinks/blog.git/categories/dev.html</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/categories/dev.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projets</title>
+      <link>https://github.com/LeBinks/blog.git/categories/projets.html</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/categories/projets.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vaccination</title>
+      <link>https://github.com/LeBinks/blog.git/categories/vaccination.html</link>
+      <pubDate>Tue, 21 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/categories/vaccination.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sintaxe</title>
+      <link>https://github.com/LeBinks/blog.git/categories/sintaxe.html</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/categories/sintaxe.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>syntax</title>
+      <link>https://github.com/LeBinks/blog.git/categories/syntax.html</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/categories/syntax.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>temas</title>
+      <link>https://github.com/LeBinks/blog.git/categories/temas.html</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/categories/temas.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://github.com/LeBinks/blog.git/categories/themes.html</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/categories/themes.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Development</title>
+      <link>https://github.com/LeBinks/blog.git/categories/development.html</link>
+      <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://github.com/LeBinks/blog.git/categories/development.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
